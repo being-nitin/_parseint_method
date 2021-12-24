@@ -10,6 +10,9 @@ public class Main {
     String s = sc.next();
     Integer.parseInt(s);
         System.out.println(s);
+    Integer.toString(Integer.parseInt(s));
+        System.out.println(s);
+
 
 
     }
